@@ -29,13 +29,20 @@ export function Navbar() {
     <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 border-b">
       {/* Top Layer - Logo, Members, Give, Theme Toggle */}
       <div className="border-b">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center h-16">
-            {/* Logo */}
-            <Link to="/" className="flex items-center gap-2">
-              <Church className="h-8 w-8 text-primary" />
-              <span className="text-xl font-heading font-semibold">Rhonde East SDA</span>
-            </Link>
+  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="flex justify-between items-center h-16">
+      
+      {/* Logo */}
+      <Link to="/" className="flex items-center gap-2">
+        <img
+          src="/logo.jpg"
+          alt="Rhonde East SDA Church Logo"
+          className="h-8 w-8 object-contain"
+        />
+        <span className="text-xl font-heading font-semibold">
+          Rhonde East SDA
+        </span>
+      </Link>
 
             {/* Right side - Members, Give, Theme Toggle */}
             <div className="hidden md:flex items-center gap-3">
