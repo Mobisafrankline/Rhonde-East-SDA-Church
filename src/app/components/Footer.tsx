@@ -41,11 +41,11 @@ export function Footer() {
             <ul className="space-y-2 text-sm">
               <li className="flex items-center gap-2">
                 <MapPin className="h-4 w-4 text-primary" />
-                <span>123 Faith Avenue, Rhonde East</span>
+                <span>20100 Nakuru, Rhonde East</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-primary" />
-                <span>(555) 123-4567</span>
+                <span>(254) 123-4567</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-primary" />

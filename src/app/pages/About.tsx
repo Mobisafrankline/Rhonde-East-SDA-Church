@@ -17,20 +17,26 @@ export function About() {
             <h2 className="text-3xl font-heading font-bold mb-6">Our Story</h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                Founded in 1952, Rhonde East Seventh-day Adventist Church has been a beacon of faith 
-                and hope in our community for over seven decades. What started as a small group of 
-                believers meeting in a modest building has grown into a thriving congregation of 
-                hundreds of members.
+                Founded in 1952 under the mother church, Rhonde Central Seventh-day Adventist Church, 
+                Rhonde East Seventh-day Adventist Church has been a steadfast beacon of faith, hope, 
+                and service in the community for over seven decades. What began as a small gathering of
+                 devoted believers worshiping in a modest setting has grown into a vibrant and thriving 
+                 congregation of hundreds of members.
               </p>
               <p>
-                Throughout our history, we have remained committed to our core mission: to share 
-                the everlasting gospel of Jesus Christ and prepare people for His soon return. We 
-                believe in the biblical Sabbath, health reform, and living according to God's Word.
+                Throughout our journey, we have remained firmly committed to our core mission—to proclaim 
+                the everlasting gospel of Jesus Christ and to prepare people for His soon return. We uphold 
+                the biblical Sabbath, promote healthful living, and strive to live in obedience to God’s Word.
               </p>
               <p>
-                Today, we continue to serve our community through various ministries, outreach 
-                programs, and worship services, always seeking to demonstrate Christ's love in 
-                practical ways.
+                As the church matured, Rhonde East SDA Church was privileged to become a mother church to Rhonde 
+                South Seventh-day Adventist Church, continuing the legacy of evangelism, church planting, and spiritual growth.
+                 This expansion reflects our dedication to spreading the gospel and nurturing new faith communities.
+              </p>
+              <p>
+                Today, Rhonde East Seventh-day Adventist Church continues to impact lives through diverse ministries, 
+                outreach programs, and uplifting worship services, consistently seeking to reflect Christ’s love through
+                 practical service to our community.
               </p>
             </div>
           </div>
@@ -112,7 +118,7 @@ export function About() {
             <div className="text-center">
               <div className="w-32 h-32 rounded-full bg-primary/20 mx-auto mb-4"></div>
               <h3 className="font-heading font-semibold mb-1">Pastor John Smith</h3>
-              <p className="text-sm text-muted-foreground mb-2">Senior Pastor</p>
+              <p className="text-sm text-muted-foreground mb-2">Pastor</p>
               <p className="text-sm text-muted-foreground">
                 Serving since 2015, passionate about discipleship and community outreach
               </p>
@@ -120,16 +126,16 @@ export function About() {
 
             <div className="text-center">
               <div className="w-32 h-32 rounded-full bg-primary/20 mx-auto mb-4"></div>
-              <h3 className="font-heading font-semibold mb-1">Elder Sarah Johnson</h3>
+              <h3 className="font-heading font-semibold mb-1">Elder Anyona</h3>
               <p className="text-sm text-muted-foreground mb-2">Church Elder</p>
               <p className="text-sm text-muted-foreground">
-                Leading women's ministry and Sabbath school programs
+                Leading men's ministry and Sabbath school programs
               </p>
             </div>
 
             <div className="text-center">
               <div className="w-32 h-32 rounded-full bg-primary/20 mx-auto mb-4"></div>
-              <h3 className="font-heading font-semibold mb-1">Deacon Michael Brown</h3>
+              <h3 className="font-heading font-semibold mb-1">Deacon Obara Mobisa</h3>
               <p className="text-sm text-muted-foreground mb-2">Head Deacon</p>
               <p className="text-sm text-muted-foreground">
                 Coordinating community service and outreach initiatives

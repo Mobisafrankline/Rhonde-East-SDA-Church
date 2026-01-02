@@ -8,7 +8,7 @@ export function Home() {
   const upcomingEvents = [
     { title: 'Sabbath School', date: 'Saturday, 9:30 AM', location: 'Main Sanctuary' },
     { title: 'Divine Worship Service', date: 'Saturday, 11:00 AM', location: 'Main Sanctuary' },
-    { title: 'Prayer Meeting', date: 'Wednesday, 6:30 PM', location: 'Fellowship Hall' },
+    { title: 'Prayer Meeting', date: 'Wednesday, 6:30 PM', location: 'Main Sanctuary' },
   ];
 
   const ministries = [

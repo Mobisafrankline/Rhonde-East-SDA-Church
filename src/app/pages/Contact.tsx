@@ -78,8 +78,8 @@ export function Contact() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p>123 Faith Avenue</p>
-                <p>Rhonde East, RC 12345</p>
+                <p>20100 Nakuru</p>
+                <p>Rhonde East, Kenya</p>
               </CardContent>
             </Card>
 
@@ -91,7 +91,7 @@ export function Contact() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p>(555) 123-4567</p>
+                <p>(254) 123-4567</p>
               </CardContent>
             </Card>
 
