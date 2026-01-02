@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Open+Sans:wght@300;400;600;700&family=Cinzel:wght@400;600;700&display=swap');
+
+:root {
+  --font-serif: 'Merriweather', serif;
+  --font-sans: 'Open Sans', sans-serif;
+  --font-heading: 'Cinzel', serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3 {
+  font-family: var(--font-heading);
+  letter-spacing: 0.025em;
+}
+
+h4, h5, h6 {
+  font-family: var(--font-serif);
+}
